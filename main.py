@@ -3,7 +3,6 @@ import random
 import json
 from dotenv import load_dotenv
 
-import openai
 import faiss
 import numpy as np
 
